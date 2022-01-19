@@ -1,0 +1,27 @@
+body{
+
+}
+.top-c{
+  background-color: black
+}
+ td{
+   margin-left: 100px
+ }
+ .im-1{
+   height: 80px;
+   width: 80px;
+   position: fixed;
+ }
+ .mid-c{
+   margin-left: 85px;
+   font-size: 130%;
+   text-align: center;
+ }
+ .pic-1{
+
+   height: 500px
+ }
+ .pic-2{
+   width: 750px;
+   height: 500px
+ }
